@@ -1,5 +1,9 @@
 # Cup's Uniques
 
+### Unique Stat Based Ability Weapons by RNG
+
+- No release build
+ 
 ***
 
 ### Bugs, Crashes, Incompatibles, etc.,
